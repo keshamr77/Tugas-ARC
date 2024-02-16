@@ -1,0 +1,1 @@
+Git Rebase adalah sebuah metode alternatif selain merge, dimana pada rebase ini kita mengintegrasikan perubahan dari satu cabang ke cabang utama di dalam repo Git. Rebase ini bisa dibilang alternatif yang lebih berguna dari merge, karena git rebase mengubah histori commit dengan menerapkan commit tersebut dari branchb asal ke branch tujuan secara berurutan.
