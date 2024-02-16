@@ -1,3 +1,6 @@
-Fork dalam github merupakan proses membuat salinan dari suatu repository yang sudah ada/dimiliki oleh orang lain ke akun github milik kita sendiri. Dengan melakukan fork, kita membuat sebuah salinan terpisah dari repo tersebut dan kita dapat dengan leluasa memodifikasi atau menggunakan repo milik kita tanpa memengaruhi repo asli.
+Fork dalam github merupakan proses membuat salinan dari suatu repository yang sudah ada/dimiliki oleh orang lain ke 
+akun github milik kita sendiri. Dengan melakukan fork, kita membuat sebuah salinan terpisah dari repo tersebut dan 
+kita dapat dengan leluasa memodifikasi atau menggunakan repo milik kita tanpa memengaruhi repo asli.
 
-Pull request adalah permintaan yang dibuat kepada pemilik repositori untuk menggabungkan perubahan yang telah kita buat pada branch milik kita kedalam repo utama atau branch utama dalam repo pemilik. 
+Pull request adalah permintaan yang dibuat kepada pemilik repositori untuk menggabungkan perubahan yang telah kita 
+buat pada branch milik kita kedalam repo utama atau branch utama dalam repo pemilik. 
