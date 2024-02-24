@@ -1,7 +1,0 @@
-Merge Conflict adalah sebuah kejadian yang terjadi akibat "tabrakan" antara dua atau lebih commit pada suatu kode dalam  sebuah repo git. 
-"Tabrakan" ini dapat diakibatkan karena dua atau lebih pengguna mengubah line yang sama, atau mungkin salah satu pengguna menghapus 
-code sementara pengguna yang lain masih mengedit code tersebut.
-
-Untuk cara menanggulanginya sendiri, pertama kita backtracking di commit mana merge tersebut terjadi, kemudian setelah ditemukan kita 
-meng-pull kembali versi dimana sebelum commit tersebut terjadi, dan memperbaiki kesalahan sesuai dengan kesalahan yang telah kita 
-identifikasi. (Based on real life experience) 
