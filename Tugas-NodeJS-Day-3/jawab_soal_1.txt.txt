@@ -1,0 +1,3 @@
+Axios adalah library JavaScript yang digunakan untuk membuat permintaan HTTP dari browser. Library ini juga dapat mengirim permintaan
+asinkron dan sinkron. Axios pada umumnya digunakan untuk pengembangan frontend dan backend karena kemudahan penggunaannya dalam menangani
+berbagai jenis permintaan HTTP
