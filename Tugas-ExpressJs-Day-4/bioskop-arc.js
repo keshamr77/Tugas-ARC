@@ -84,8 +84,11 @@ function saveDatabase(){
     fs.writeSync('movies.json'.JSON, stringify(movies, null, 2));
 }
 
+// Variabel PORT
+const port = process.env.PORT || 8080
+
 // Menjalankan server
-app.listen(8080, () => 
+app.listen(port, () => 
 {
     console.log(`Server sedang berjalan di http://localhost:8080/ARC-XXI`);
 });
